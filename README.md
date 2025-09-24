@@ -1,2 +1,2 @@
-# dpk-bot-2025
+# DPK 2025 Chatbot!
 Testing a training chatbot for DPK!
